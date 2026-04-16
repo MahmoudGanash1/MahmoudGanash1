@@ -39,6 +39,12 @@ I specialize in transforming raw data into **actionable business insights** usin
 
 ## 📌 Featured Projects
 
+### 🍽️ Restaurant Sales Analytics Platform
+📊 Databricks + SQL + Power BI + DAX
+Processed 1.5GB+ of data (11M+ records) from 7 CSV and 2 JSON files, solved schema mismatches, and built an end-to-end data pipeline. Developed a multi-page Power BI dashboard covering revenue, products, customers, time analysis, and payment behavior with optimized performance and business insights.
+
+---
+
 ### 🏦 Bank Loan Analysis Dashboard  
 📊 SQL + Power BI + DAX  
 Analyzed loan applications, approvals, and financial KPIs using SQL for data extraction and Power BI for visualization.
